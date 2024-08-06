@@ -53,7 +53,7 @@ const getNumberOfLines = () => {
     } else {
       return numberOfLines;
     }
-  }   
+  }
 };
 
 const getBet = (balance, lines) => {
