@@ -69,7 +69,6 @@ const getBet = (balance, lines) => {
   }   
 }
 
-
 const spin = () => {
   const symbols = [];
   for (const [symbol, count] of Object.entries(SYMBOLS_COUNT)){
